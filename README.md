@@ -7,4 +7,5 @@ Gator is a command-line interface (CLI) tool built in Go to track RSS feeds amon
 - Install [PostgreSQL](https://www.postgresql.org/).
 - Install [Go](https://go.dev/).
 
-## 
+## Installation
+To install the Gator CLI, run:

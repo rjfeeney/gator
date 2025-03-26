@@ -7,14 +7,15 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"gator/internal/config"
-	"gator/internal/database"
 	"html"
 	"io"
 	"log"
 	"net/http"
 	"os"
 	"time"
+
+	"github.com/rjfeeney/gator/internal/config"
+	"github.com/rjfeeney/gator/internal/database"
 
 	"github.com/google/uuid"
 	"github.com/lib/pq"
